@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Teo (he/him)
+
+You might be interested in some of my other profiles:
+- [Codeberg](https://codeberg.org/teo)
+- [GHC's Gitlab](https://gitlab.haskell.org/teo)
 
 <!--
 **TeofilC/TeofilC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
