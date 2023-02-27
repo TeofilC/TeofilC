@@ -1,4 +1,4 @@
-### Hi, I'm Teo (he/him)
+### Hi, I'm Teo (he/they)
 
 You might be interested in some of my other profiles:
 - [Codeberg](https://codeberg.org/teo)
